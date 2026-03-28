@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+נרות עיצוב אישי לבית, מוצרי פוקסי קסומים ומתנות מותאמות אישית. Bearflowers מביאה חמימות, יצירתיות וסטייל ייחודי לכל פינה בביתך. גלי את הקולקציה עכשיו!
+
+### קולקציות והתאמה אישית
+https://example.com/collections-personalization
+קולקציות נרות ומוצרי פוקסי עם אפשרות התאמה אישית מלאה. מתנות מותאמות אישית לחתונה, ימי הולדת וכל רגע מיוחד. כי כל פרט מספר משהו עליך.
+
+### אודות
+https://example.com/about
+Bearflowers נולדה מאהבה לעיצוב אישי, לחמימות הבית ולפרטים הקטנים שעושים את ההבדל. גלי את הסיפור, הערכים והתשוקה שעומדים מאחורי כל נר ומוצר.
+
+### צור קשר
+https://example.com/contact
+רוצה מוצרי פוקסי מותאמים אישית, נרות עיצוב אישי לבית או מתנות לחתונה? צרי קשר עם Bearflowers ונהפוך כל רעיון לפריט קסום שתאהבי לתת ולקבל.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Bearflowers
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Bearflowers
+
+### Category
+https://example.com/category/:slug
+מוצרים - Bearflowers
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
